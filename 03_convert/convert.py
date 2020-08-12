@@ -6,3 +6,4 @@ rate = input("Enter rate:")
 grossPay = float(hrs) * float(rate)
 
 print("Pay: " + str(grossPay))
+# print("Pay: ", grossPay)
