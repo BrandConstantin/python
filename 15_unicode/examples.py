@@ -1,4 +1,4 @@
-print(ord('H'))
+print(ord('G'))
 print(ord('\n'))
 
 x = b'abc'
