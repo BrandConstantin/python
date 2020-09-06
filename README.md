@@ -1,2 +1,36 @@
 # python
-Learn python
+
+Index:
+- Input
+- Convert
+- if, elif, else
+- Functions
+- Loops
+- Definite loop
+- Strings and Manipulating Strings
+- Files
+- Prompt file name
+- Lists and Concatenating lists
+- Find
+- Mutable
+- Sort
+- Split
+- Dictionaries
+- Tracebacks
+- Counting
+- Count wiht get
+- Pattern
+- Tetrieving lists of keys and values
+- Two iteration variable
+- Tuples
+- Sorting list of tuples
+- Sort by values
+- List comprehension
+- Regular expressions
+- String extraction
+- Sockets, port numbers, protocols
+- Unicode characters and strings
+- urllib
+- Beautiful Soup library
+- Parsing xml
+- JSON
